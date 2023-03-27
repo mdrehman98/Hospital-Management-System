@@ -9,5 +9,9 @@
             "src": "/(.*)",
             "dest": "djangoHospital/wsgi.py"
         }
-    ]
+    ],
+    "files": [
+        "static",
+        "templates"
+      ]
 }
