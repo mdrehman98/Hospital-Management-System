@@ -9,6 +9,5 @@
             "src": "/(.*)",
             "dest": "djangoHospital/wsgi.py"
         }
-    ],
-    "rewrites": [{ "source": "/(.*)", "destination": "/" }] 
+    ]
 }
